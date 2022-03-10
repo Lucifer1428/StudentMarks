@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MarksTestApp/1.0.0": {
+        "dependencies": {
+          "StudentsMarks": "1.0.0"
+        },
+        "runtime": {
+          "MarksTestApp.dll": {}
+        }
+      },
+      "StudentsMarks/1.0.0": {
+        "runtime": {
+          "StudentsMarks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarksTestApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentsMarks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

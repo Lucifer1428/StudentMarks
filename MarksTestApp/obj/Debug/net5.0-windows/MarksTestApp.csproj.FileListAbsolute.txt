@@ -1,0 +1,49 @@
+E:\4 курс\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.exe
+E:\4 курс\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.deps.json
+E:\4 курс\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.runtimeconfig.json
+E:\4 курс\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.runtimeconfig.dev.json
+E:\4 курс\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.dll
+E:\4 курс\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\ref\MarksTestApp.dll
+E:\4 курс\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.pdb
+E:\4 курс\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\StudentsMarks.dll
+E:\4 курс\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\StudentsMarks.pdb
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.csproj.AssemblyReference.cache
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\App.g.cs
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp_MarkupCompile.cache
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp_MarkupCompile.lref
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MainWindow.baml
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.g.resources
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.AssemblyInfoInputs.cache
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.AssemblyInfo.cs
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.csproj.CoreCompileInputs.cache
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.csproj.CopyComplete
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.dll
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\ref\MarksTestApp.dll
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.pdb
+E:\4 курс\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.genruntimeconfig.cache
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.exe
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.deps.json
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.runtimeconfig.json
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.runtimeconfig.dev.json
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.dll
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\ref\MarksTestApp.dll
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\MarksTestApp.pdb
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\StudentsMarks.dll
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\bin\Debug\net5.0-windows\StudentsMarks.pdb
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.csproj.AssemblyReference.cache
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp_MarkupCompile.cache
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp_MarkupCompile.lref
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.g.resources
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.AssemblyInfoInputs.cache
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.AssemblyInfo.cs
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.csproj.CoreCompileInputs.cache
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.dll
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\ref\MarksTestApp.dll
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.pdb
+C:\Users\igrom\Desktop\StudentsMarks\MarksTestApp\obj\Debug\net5.0-windows\MarksTestApp.genruntimeconfig.cache

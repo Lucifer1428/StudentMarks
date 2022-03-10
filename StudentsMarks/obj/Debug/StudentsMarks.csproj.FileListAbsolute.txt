@@ -1,0 +1,6 @@
+E:\4 курс\StudentsMarks\StudentsMarks\bin\Debug\StudentsMarks.dll
+E:\4 курс\StudentsMarks\StudentsMarks\bin\Debug\StudentsMarks.pdb
+E:\4 курс\StudentsMarks\StudentsMarks\obj\Debug\StudentsMarks.csproj.AssemblyReference.cache
+E:\4 курс\StudentsMarks\StudentsMarks\obj\Debug\StudentsMarks.csproj.CoreCompileInputs.cache
+E:\4 курс\StudentsMarks\StudentsMarks\obj\Debug\StudentsMarks.dll
+E:\4 курс\StudentsMarks\StudentsMarks\obj\Debug\StudentsMarks.pdb
